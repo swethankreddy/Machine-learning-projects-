@@ -14,3 +14,7 @@ explored linear regression for predicting continuous outcomes and logistic regre
 
 CNN assigment:
 we successfully classified images of four different animals using image preprocessing and machine learning techniques. The model effectively distinguished between the animal classes, demonstrating the power of these methods in image classification tasks. This project highlights the importance of preprocessing and feature extraction in achieving accurate and reliable results
+
+drag and drop:
+using finger moments we can move the image on computer screen 
+
